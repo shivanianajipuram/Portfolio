@@ -21,6 +21,4 @@ PROJECTS
 
 <img width="1334" height="626" alt="image" src="https://github.com/user-attachments/assets/2aa58171-575f-4404-9f29-707d6f109210" />
 
-CONTACT
 
-<img width="1325" height="622" alt="image" src="https://github.com/user-attachments/assets/01d2ff30-a888-46df-84fc-de046537b6ca" />
